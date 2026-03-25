@@ -78,7 +78,7 @@
             this.imgBad.TabIndex = 3;
             this.imgBad.TabStop = false;
             this.imgBad.Visible = false;
-            this.imgBad.Click += new System.EventHandler(this.imgBad_Click);
+          
             // 
             // Form1
             // 

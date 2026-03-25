@@ -17,10 +17,6 @@ namespace Programming_Assignments_Topic_9
             InitializeComponent();
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
 
         private void btnGood_Click(object sender, EventArgs e)
         {
@@ -32,9 +28,6 @@ namespace Programming_Assignments_Topic_9
             imgBad.Visible = true;
         }
 
-        private void imgBad_Click(object sender, EventArgs e)
-        {
-
-        }
+       
     }
 }
